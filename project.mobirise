@@ -64,7 +64,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Início",
+        "title": "CDYManaus/Início",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -893,7 +893,7 @@
     "page3.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
-        "title": "Exames | Preços",
+        "title": "CDYManaus/Exames",
         "order": 1
       },
       "components": [
@@ -1604,7 +1604,7 @@
     "page4.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Localização | Contato",
+        "title": "CDYManaus/localização/contato",
         "order": 2
       },
       "components": [
