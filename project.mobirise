@@ -58,7 +58,7 @@
     "favicon": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "Centro de diagnóstico Yano, teste, covi-19, cdy, diagnóstico, sars-cov-2, teste, rápido, teste rápido, teste covid, teste covid-19, sorologia, hemograma, manaus, amazonas, brasil"
+    "google-analytics": "Centro de diagnóstico Yano, cdy, diagnóstico, teste covid-19,  sars-cov-2, teste rápido, sorologias, hemograma, manaus, amazonas, brasil"
   },
   "pages": {
     "index.html": {
